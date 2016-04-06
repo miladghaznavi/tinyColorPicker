@@ -94,7 +94,7 @@ Colors({ // all options have a default value...
 
 ##The color model, the methods and more
 
-After initializing Color or ColorPicker you'll get a clean but rhich model of the instance:
+After initializing Color or ColorPicker you'll get a clean but rich model of the instance:
 
 ```javascript
 myColors: {
